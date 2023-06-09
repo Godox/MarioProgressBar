@@ -2,7 +2,7 @@
   <id>manjaro.mpb</id>
   <name>Mario Progress Bar</name>
   <version>1.7</version>
-  <idea-version since-build="193"/>
+  <idea-version since-build="200"/>
   <vendor email="kylian.meulin@gmail.com">KikiManjaro</vendor>
 
   <description><![CDATA[
